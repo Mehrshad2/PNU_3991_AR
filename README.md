@@ -9,7 +9,6 @@
 ## فهرست درس ها  
 
 [نظريه زبانهاوماشين ها 02-1115157](https://github.com/Mehrshad2/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
-<br>
 ---------------------
 ## روز و ساعت ارائه درس
 
