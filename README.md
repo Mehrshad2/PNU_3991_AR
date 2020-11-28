@@ -21,7 +21,7 @@
     <th ></th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبان ها و ماشین ها</a></th>
     <th ></th>
-    <th></th>
+    <th>شبکه های کامپیوتری</th>
     <th></th>
     <th>شنبه</th>
   </tr>
@@ -34,23 +34,23 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
+     <th >سیگنال ها و سیستم ها</th>
      <th ></th>
-     <th ></th>
-     <th></th>
+     <th>فرهنگ و تمدن ایران و اسلام</th>
      <th></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th >سیستم های عامل</th>
     <th></th>
     <th></th>
     <th ></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th >معادلات دیفرانسیل</th>
     <th ></th>
     <th></th>
     <th></th>
