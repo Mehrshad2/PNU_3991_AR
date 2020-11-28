@@ -19,6 +19,7 @@
     <th>روز</th>
   </tr>
   <tr>
+    <th >مدار های الکتریکی</th>
     <th ></th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبان ها و ماشین ها</a></th>
     <th ></th>
@@ -29,12 +30,14 @@
    <tr>
     <th ></th>
     <th ></th>
+    <th ></th>
     <th></th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
+     <th ></th>
      <th >سیگنال ها و سیستم ها</th>
      <th ></th>
      <th>فرهنگ و تمدن ایران و اسلام</th>
@@ -44,6 +47,7 @@
   </tr>
    <tr>
     <th ></th>
+    <th ></th>
     <th >سیستم های عامل</th>
     <th></th>
     <th></th>
@@ -51,6 +55,7 @@
     <th>سه شنبه</th>
   </tr>
    <tr>
+    <th ></th>
     <th >معادلات دیفرانسیل</th>
     <th ></th>
     <th></th>
@@ -59,6 +64,7 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
+    <th ></th>
     <th ></th>
      <th ></th>
      <th ></th>
