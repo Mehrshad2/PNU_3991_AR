@@ -1,3 +1,4 @@
+<div dir="rtl">
 # مهرشاد ادهم ماوردياني 
 - [PNU_3991_AR](https://github.com/Mehrshad2/PNU_3391_AR)
 - [Resume](https://mehrshad2.github.io/resume/) 
@@ -12,7 +13,7 @@
 
 ------------------
 ## روز و ساعت ارائه درس
-
+<div dir="ltr">
 <table style="width:100%">
   <tr>
     <th >18-20</th>
