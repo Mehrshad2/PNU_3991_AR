@@ -24,7 +24,7 @@
       1. [_TLM01_31_اكبر سلطان زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/31_%D8%A7%D9%83%D8%A8%D8%B1%20%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87)
 -------------------------
 
-## روز و ساعت ارائه درس
+## روز و ساعت ارائه دروس
 <div dir="ltr">
 <table style="width:100%">
   <tr>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <th >مدار های الکتریکی</th>
-    <th ></th>
+    <th >آزمایشگاه فیزیک 2 (15-17(</th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبان ها و ماشین ها</a></th>
     <th ></th>
     <th>شبکه های کامپیوتری</th>
@@ -48,7 +48,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ></th>
+    <th >آزمایشگاه مدار الکتریکی</th>
     <th></th>
     <th></th>
     <th ></th>
@@ -84,9 +84,9 @@
    <tr>
     <th ></th>
     <th ></th>
+     <th >آرمایشگاه شبکه های کامپیوتری</th>
      <th ></th>
-     <th ></th>
-     <th></th>
+     <th>آزمایشگاه سیستم عامل</th>
      <th></th>
      <th>پنج شنبه</th>
   </tr>
