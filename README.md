@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <th >مدار های الکتریکی</th>
-    <th >آزمایشگاه فیزیک 2 (15-17(</th>
+    <th >آزمایشگاه فیزیک 2 (15-17)</th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبان ها و ماشین ها</a></th>
     <th ></th>
     <th>شبکه های کامپیوتری</th>
@@ -86,8 +86,8 @@
     <th ></th>
      <th >آرمایشگاه شبکه های کامپیوتری</th>
      <th ></th>
-     <th>آزمایشگاه سیستم عامل</th>
      <th></th>
+     <th>آزمایشگاه سیستم عامل</th>
      <th>پنج شنبه</th>
   </tr>
 </table>
