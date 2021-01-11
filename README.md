@@ -12,7 +12,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Mehrshad2/PNU_3991_AR/blob/main/General/MA_CV_CheckList_AR_3991%20.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/Mehrshad2/PNU_3991_AR/blob/main/General/MA_CV_CheckList_AR_3991%20.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Mehrshad2/PNU_3991_AR/blob/main/General/MA_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس نظریه زبانها و ماشینها](https://github.com/Mehrshad2/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/MA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
